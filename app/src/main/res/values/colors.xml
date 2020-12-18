@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="red_base">#FFFFB8AD</color>
+    <color name="red_main">#FFFF7761</color>
+    <color name="red_dark">#FFFF472B</color>
+    <color name="red_accent">#FF618AFF</color>
+
+    <color name="blue_base">#FF9FBAFF</color>
+    <color name="blue_main">#FF5384FF</color>
+    <color name="blue_dark">#FF1356FF</color>
+    <color name="blue_accent">#FFFFCE53</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
